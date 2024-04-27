@@ -15,7 +15,7 @@ future: true
 RSS: false
 weibo_username: DongZi____
 zhihu_username: DongZi____
-github_username: DongZi____
+github_username: flashzdw
 twitter_username: DongZi____
 #facebook_username:  DongZi____
 #linkedin_username:  firstname-lastname-idxxxx
@@ -91,12 +91,7 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "bilibili", href: "https://space.bilibili.com/2025723049" },
+    { title: "makerworld", href: "https://makerworld.com/zh/@DongZi____" },
+
   ]
