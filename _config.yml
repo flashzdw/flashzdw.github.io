@@ -4,7 +4,7 @@ SEOTitle: DONG的博客 | DONG Blog
 header-img: img/home-bg.jpg
 email: DongZi____@outlook.com
 description: "这里是 @DongZi____ 的个人博客 | 只有疯狂到认为自己能改变世界的人，才能真正改变世界!"
-keyword: "DongZi"
+keyword: "up"
 url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -24,7 +24,7 @@ twitter_username: DongZi____
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
-paginate: 10
+paginate: 6
 exclude:
   [
     "less",
